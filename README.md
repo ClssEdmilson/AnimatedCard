@@ -1,1 +1,1 @@
-![Screenshot](Card.png)
+![Screenshot](CardAnimated.gif)
